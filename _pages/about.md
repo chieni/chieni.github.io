@@ -21,4 +21,4 @@ Hi all! I am currently a second-year PhD student in the [Machine Learning Group]
 
 I am funded through the Microsoft Research PhD Scholarship Programme as part of the ESPRC Prosperity Partnership "Machine Learning for Tomorrow: Efficient, Flexible, Robust and Automated." 
 
-I grew up in Bellevue, Washington, received my Bachelor's and Master's degrees in Computer Science and the Massachusetts Institute of Technology (MIT), and worked for two years as a Research Software Engineer at Microsoft Research UK, in the Health Intelligence group. 
+I grew up in Bellevue, Washington, received my Bachelor's and Master's degrees in Computer Science at the Massachusetts Institute of Technology (MIT), and worked for two years as a Research Software Engineer at Microsoft Research UK, in the Health Intelligence group. 
