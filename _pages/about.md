@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: University of Cambridge
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: isabel.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>James Dyson Building</p>
+    <p>Trumpington St</p>
+    <p>Cambridge, UK CB2 1QA</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi all! I am currently a second-year PhD student in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/){:target="\_blank"} at the University of Cambridge, co-supervised by [Professor Richard Turner](http://learning.eng.cam.ac.uk/Public/Turner/WebHome){:target="\_blank"} and [Dr. Aditya Nori](https://www.microsoft.com/en-us/research/people/adityan/){:target="\_blank"} (Microsoft Research). At Cambridge, I am a member of [Christ's College](https://www.christs.cam.ac.uk/){:target="\_blank"}. I am interested in exploring how machine learning can be deployed ethically in healthcare practice. Currently, I focus on fairness in ML for healthcare as well as under-explored perspectives of fairness in ML, such as the characterization of fairness with respect to exploration (in online or bandit settings).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am funded through the Microsoft Research PhD Scholarship Programme as part of the ESPRC Prosperity Partnership "Machine Learning for Tomorrow: Efficient, Flexible, Robust and Automated." 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I grew up in Bellevue, Washington, received my Bachelor's and Master's degrees in Computer Science and the Massachusetts Institute of Technology (MIT), and worked for two years as a Research Software Engineer at Microsoft Research UK, in the Health Intelligence group. 
