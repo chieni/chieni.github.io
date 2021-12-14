@@ -43,10 +43,11 @@
           </li>
           {% endif %}
           <li class="nav-item">
-            <a class="nav-link" href="assets/pdf/IsabelChien_Academic_CV_112321.pdf">
+            <a class="nav-link" href="{{ 'assets/pdf/IsabelChien_Academic_CV_112321.pdf'| | relative_url }}">
               CV
             </a>
           </li>
+         
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
